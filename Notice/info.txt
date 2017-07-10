@@ -1,0 +1,4 @@
+Here, you'll find the source code of the notice
+announced at St. Xavier's College
+for the tutorial on "A short introduction
+to LaTeX and it's importance"
