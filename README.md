@@ -1,9 +1,11 @@
-###  Tutorial: A short introduction to LaTeX and it's importance.
-#### Author: [Damodar Rajbhandari](mailto:dphysicslog@gmail.com), Out-reach Blogger at [Physics Log](http://www.physicslog.com/).
-#### Current Level: B.Sc. Physics 4th year at [St. Xavier's College](http://sxc.edu.np/), Nepal
-#### Current Position: IT-Officer at [St. Xavier's Physics Council](http://sxpc.ga/) (2017-2018).
+###  Tutorial: Una introducción corta a LaTeX y su importancia.
+#### Author del Fork: [Vladimir Robles](mailto:vrobles@ups.edu.ec) 
+#### Author del proyecto original: [Damodar Rajbhandari](mailto:dphysicslog@gmail.com), Out-reach Blogger at [Physics Log](http://www.physicslog.com/).
 
-#### You can find the presentation file at: [Physics Log](http://www.physicslog.com/about-author/) at item 11.
+En este repositorio encontrará el fichero fuente en \LaTex del modelo original desarrollado por Damodar Rajbhandari.
 
+Puede distribuir, modificar o realizar cualquier modificación que considere oportuna.
 
-### Thank you for visiting!!!
+Los archivos fuente, así como un ejemplo compilado en \LaTex se encuentra en la carpeta [Especificación-Taller-Vision](http://abc)
+
+### Gracias por su visita.
