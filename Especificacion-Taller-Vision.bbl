@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{ochoa2016new}
+JS~Ochoa-Zambrano, VE~Robles-Bykbaev, TE~Flores-Tapia, and Jan Doutreloigne.
+\newblock A new hand gesture recognition approach for robotic assistants based
+  on mobile devices.
+\newblock In {\em International Conference on Software and Information Systems
+  (ICSIS 2015)}, volume~4, pages 96--99, 2016.
+
+\bibitem{ochoa2014diseno}
+Juan~Sebasti{\'a}n Ochoa~Zambrano.
+\newblock Dise{\~n}o e implementaci{\'o}n de un asistente m{\'o}vil con
+  desplazamiento aut{\'o}nomo basado en dispositivos android.
+\newblock \url{https://dspace.ups.edu.ec/handle/123456789/7225}, 2014.
+
+\bibitem{plaza2011estudio}
+AM~Plaza and JL~Zambrano.
+\newblock {Estudio y Seleccion de las Tecnicas SIFT SURF y ASIF de
+  Reconocimiento de Imagenes para el Dise{\~n}o de un Prototipo en Dispositivos
+  Moviles}.
+\newblock \url{https://dspace.ups.edu.ec/handle/123456789/1259}, 2011.
+
+\bibitem{robles2015speltra}
+Vladimir Robles-Bykbaev, Mart{\'\i}n L{\'o}pez-Nores, Juan Ochoa-Zambrano,
+  Jorge Garc{\'\i}a-Duque, and Jos{\'e}~Juan Pazos-Arias.
+\newblock Speltra: A robotic assistant for speech-and-language therapy.
+\newblock In {\em International Conference on Universal Access in
+  Human-Computer Interaction}, pages 525--534. Springer, 2015.
+
+\bibitem{yacchirema2018fall}
+Diana Yacchirema, Jara~Su{\'a}rez de~Puga, Carlos Palau, and Manuel Esteve.
+\newblock Fall detection system for elderly people using iot and big data.
+\newblock {\em Procedia computer science}, 130:603--610, 2018.
+
+\end{thebibliography}
