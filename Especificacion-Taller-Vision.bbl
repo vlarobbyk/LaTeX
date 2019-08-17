@@ -1,5 +1,12 @@
 \begin{thebibliography}{1}
 
+\bibitem{gonzalez2019}
+J~Gonz{\'a}lez~Jara.
+\newblock {Dise{\~n}o e implementaci{\'o}n de una aplicaci{\'o}n m{\'o}vil en
+  base al sistema ADACOF a fin de brindar soporte en el desarrollo de la
+  articulaci{\'o}n en ni{\~n}os con trastornos del lenguaje y la
+  comunicaci{\'o}n}, 2019.
+
 \bibitem{ochoa2016new}
 JS~Ochoa-Zambrano, VE~Robles-Bykbaev, TE~Flores-Tapia, and Jan Doutreloigne.
 \newblock A new hand gesture recognition approach for robotic assistants based
@@ -26,6 +33,15 @@ Vladimir Robles-Bykbaev, Mart{\'\i}n L{\'o}pez-Nores, Juan Ochoa-Zambrano,
 \newblock Speltra: A robotic assistant for speech-and-language therapy.
 \newblock In {\em International Conference on Universal Access in
   Human-Computer Interaction}, pages 525--534. Springer, 2015.
+
+\bibitem{timbi2015adacof}
+Cristian Timbi-Sisalima, Vladimir Robles-Bykbaev, Edisson
+  Gui{\~n}ansaca-Zhag{\"u}i, Marco Cap{\'o}n-Albarrac{\'\i}n, and Gladys
+  Ochoa-Ar{\'e}valo.
+\newblock Adacof: una aproximaci{\'o}n educativa basada en tic para el
+  aprendizaje digital de la articulaci{\'o}n del c{\'o}digo fon{\'e}tico en
+  ni{\~n}os con discapacidad.
+\newblock {\em Perfiles educativos}, 37(149):187--202, 2015.
 
 \bibitem{yacchirema2018fall}
 Diana Yacchirema, Jara~Su{\'a}rez de~Puga, Carlos Palau, and Manuel Esteve.
